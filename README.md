@@ -9,7 +9,7 @@ Conclusion: Indeed, it is concluded that being a man or woman affects whether to
 Question 2: Are women's and men's base salary distribution the same?
 Conclusion: The results show significant differences between the distribution of the base salary between men and women.
 
-Question 3: The distribution of the base salary of women and men are similar or different?
+Question 3: Is the distribution of the base salary of women and men are similar or different?
 Conclusion: With the results of this objective, we not only conclude that gender influences a person's yearly salary, but we also know how much it influences. The multivariate regression model multiplies each woman by (-9%) to estimate her total annual salary.
 
 Since I build the database, the extrapolation of the process will likely be partial.
